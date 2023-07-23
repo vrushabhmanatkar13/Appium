@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Digital Codes Android Mobile">
+<parameter name="Ip Address" value="0.0.0.0"></parameter>
+<parameter name="Port" value="4723"></parameter>
+
+
+  <test name="Pixle 4" preserve-order="true">
+  <parameter name="Device Name" value="Pixel 4"></parameter>
+  <parameter name="Device Version" value="10"></parameter>
+    <classes>
+      <class name="com.Appium.testcase.TestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

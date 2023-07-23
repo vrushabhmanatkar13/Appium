@@ -1,0 +1,11 @@
+{
+
+
+"ipaddress":"0.0.0.0",
+"port":"4723",
+"devicename":"Pixel 4",
+"deviceversion":"10",
+"appPackage":"org.iccsafe.codes",
+"app":"pma-app-release-v1.4.1.apk"
+
+}
